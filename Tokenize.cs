@@ -1,6 +1,6 @@
 ﻿/******************************************************************************
 Program:     Notsudoku
-File:        Backend.cs
+File:        Tokenize.cs
 
 Purpose:     This file contains the GetFile and TokenizeFile methods, which
              respectively chooses a random puzzle file of a selected difficulty
