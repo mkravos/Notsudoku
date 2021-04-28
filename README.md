@@ -1,4 +1,4 @@
-# not-sudoku
+# Notsudoku Game
 
 Notsudoku Application created using C#. This sudoku inspired game was created for CSCI473 - .NET Programing course at Northern Illinois University. The project was created as a Windows Form Application in Visual Studio.
 
