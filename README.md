@@ -5,6 +5,5 @@ Notsudoku Application created using C#. This sudoku inspired game was created fo
 The following link is a narrated demonstration of the application: (Coming soon)
 
 ## Directory Description
-  - App - contains the source files and other files used by the application
-  - SQL - contains the SQL scripts used to create and populate the database
-  - Schematics - contains the schematics created in the planning phase of the project, such as the ER Diagram, Database Schema in 3rd normal form and the Diagram description.
+  - Puzzles - contains the puzzle files, a puzzle is chosen randomly by the program when a new game is started
+  - Main - contains the source code and readme description file
