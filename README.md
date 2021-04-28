@@ -5,5 +5,6 @@ Notsudoku Application created using C#. This sudoku inspired game was created fo
 The following link is a narrated demonstration of the application: (Coming soon)
 
 ## Directory Description
+  - Screenshots - contains screenshots of the running game
   - Puzzles - contains the puzzle files, a puzzle is chosen randomly by the program when a new game is started
   - Main - contains the source code and readme description file
