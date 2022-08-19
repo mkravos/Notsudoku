@@ -1,0 +1,41 @@
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\obj\Debug\Notsudoku.csproj.GenerateResource.cache
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\obj\Debug\Notsudoku.csproj.CoreCompileInputs.cache
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\bin\Debug\Notsudoku.exe.config
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\bin\Debug\Notsudoku.exe
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\bin\Debug\Notsudoku.pdb
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\obj\Debug\Notsudoku.csprojAssemblyReference.cache
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\obj\Debug\Notsudoku.Form1.resources
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\obj\Debug\Notsudoku.Properties.Resources.resources
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\obj\Debug\Notsudoku.exe
+C:\Users\Maj\Documents\NIU\CSCI473\MikeAndKyle_Assign5\MikeAndKyle_Assign5\obj\Debug\Notsudoku.pdb
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\bin\Debug\Notsudoku.exe.config
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\bin\Debug\Notsudoku.exe
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\bin\Debug\Notsudoku.pdb
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\obj\Debug\Notsudoku.csprojAssemblyReference.cache
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\obj\Debug\Notsudoku.Form1.resources
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\obj\Debug\Notsudoku.Properties.Resources.resources
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\obj\Debug\Notsudoku.csproj.GenerateResource.cache
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\obj\Debug\Notsudoku.csproj.CoreCompileInputs.cache
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\obj\Debug\Notsudoku.exe
+C:\Users\Maj\Documents\NIU\CSCI473\Notsudoku\Notsudoku\obj\Debug\Notsudoku.pdb
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\bin\Debug\Notsudoku.exe.config
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\bin\Debug\Notsudoku.exe
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\bin\Debug\Notsudoku.pdb
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.csprojAssemblyReference.cache
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.Form1.resources
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.Properties.Resources.resources
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.csproj.GenerateResource.cache
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.csproj.CoreCompileInputs.cache
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.exe
+C:\Users\Maj\Documents\Projekti\Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.pdb
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\bin\Debug\Notsudoku.exe.config
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\bin\Debug\Notsudoku.exe
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\bin\Debug\Notsudoku.pdb
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.csproj.AssemblyReference.cache
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.Form1.resources
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.Properties.Resources.resources
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.csproj.GenerateResource.cache
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.csproj.CoreCompileInputs.cache
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.exe
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.pdb
+C:\Users\Maj\Documents\Projekti\Arhiv\School Project Portfolio\Programi\not-sudoku\Notsudoku\obj\Debug\Notsudoku.csproj.SuggestedBindingRedirects.cache
